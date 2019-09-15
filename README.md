@@ -4,7 +4,7 @@ React Native
 Para este exercício, iremos explorar a criação de uma aplicação mobile com React Native bem como o
 seu teste em nossos dispositivos. Para isso, siga o passo a passo abaixo
 
-POS graduação
+Pós graduação
 
 Curso: Desenvolvimento Web Full Stack
 
